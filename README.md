@@ -1,4 +1,8 @@
 # medical_bloc
+<div style="background-color: #f2f2f2; padding: 10px; border-radius: 10px;">
+  <h2 style="color: #333;">Title</h2>
+  <p>This is a section with a custom background color.</p>
+</div>
 
 A new Flutter project.
 <p align="center">
