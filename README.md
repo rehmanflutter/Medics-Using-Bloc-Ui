@@ -9,7 +9,3 @@ A new Flutter project.
   <img src="https://github.com/user-attachments/assets/c89ca6cb-2bcc-4c9e-818f-c4a427e023c4" width="200" />
   <img src="https://github.com/user-attachments/assets/6ef3e346-930c-47df-9fb1-d09f63f98b0b" width="200" />
 </p>
-<div style="background-color: #d4edda; padding: 20px; border-radius: 10px; color: #155724;">
-  <h2 style="color: #155724;">Title</h2>
-  <p>This is a section with a green background color.</p>
-</div>
